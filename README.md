@@ -1,0 +1,1 @@
+# scalegolf-newsletter
